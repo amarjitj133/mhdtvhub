@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CH1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibB8x60MGzus-P-V8-8DlwnVQsqpaAAPGRMQa16KHxQ&s" tvg-backdrop="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVuU1i0zQ5lkakCQwwA7D3t8yRvH3MBrDIe0k5pR8Qg&s",JioCinema IPL: Hindi
+https://example.com/live/stream1/index.m3u8
+
+#EXTINF:-1 tvg-id="CH2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibB8x60MGzus-P-V8-8DlwnVQsqpaAAPGRMQa16KHxQ&s" tvg-backdrop="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVuU1i0zQ5lkakCQwwA7D3t8yRvH3MBrDIe0k5pR8Qg&s",JioCinema IPL: English
+https://example.com/live/stream2/index.m3u8
+
+#EXTINF:-1 tvg-id="CH3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibB8x60MGzus-P-V8-8DlwnVQsqpaAAPGRMQa16KHxQ&s" tvg-backdrop="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVuU1i0zQ5lkakCQwwA7D3t8yRvH3MBrDIe0k5pR8Qg&s",Star Sports 1 HD
+https://example.com/live/stream3/index.m3u8
+
+#EXTINF:-1 tvg-id="CH4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibB8x60MGzus-P-V8-8DlwnVQsqpaAAPGRMQa16KHxQ&s" tvg-backdrop="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVuU1i0zQ5lkakCQwwA7D3t8yRvH3MBrDIe0k5pR8Qg&s",Star Sports Hindi
+https://example.com/live/stream4/index.m3u8
+
+#EXTINF:-1 tvg-id="CH5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibB8x60MGzus-P-V8-8DlwnVQsqpaAAPGRMQa16KHxQ&s" tvg-backdrop="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVuU1i0zQ5lkakCQwwA7D3t8yRvH3MBrDIe0k5pR8Qg&s",Sony Ten 1 HD
+https://example.com/live/stream5/index.m3u8
+
+#EXTINF:-1 tvg-id="CH6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibB8x60MGzus-P-V8-8DlwnVQsqpaAAPGRMQa16KHxQ&s" tvg-backdrop="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVuU1i0zQ5lkakCQwwA7D3t8yRvH3MBrDIe0k5pR8Qg&s",Sony Ten 5 HD
+https://example.com/live/stream6/index.m3u8
+
+#EXTINF:-1 tvg-id="CH7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibB8x60MGzus-P-V8-8DlwnVQsqpaAAPGRMQa16KHxQ&s" tvg-backdrop="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVuU1i0zQ5lkakCQwwA7D3t8yRvH3MBrDIe0k5pR8Qg&s",Willow Cricket HD
+https://example.com/live/stream7/index.m3u8
+
+#EXTINF:-1 tvg-id="CH8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibB8x60MGzus-P-V8-8DlwnVQsqpaAAPGRMQa16KHxQ&s" tvg-backdrop="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVuU1i0zQ5lkakCQwwA7D3t8yRvH3MBrDIe0k5pR8Qg&s",PTV Sports Live
+https://example.com/live/stream8/index.m3u8
+
+#EXTINF:-1 tvg-id="CH9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibB8x60MGzus-P-V8-8DlwnVQsqpaAAPGRMQa16KHxQ&s" tvg-backdrop="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVuU1i0zQ5lkakCQwwA7D3t8yRvH3MBrDIe0k5pR8Qg&s",Astro Cricket HD
+https://example.com/live/stream9/index.m3u8
+
+#EXTINF:-1 tvg-id="CH10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibB8x60MGzus-P-V8-8DlwnVQsqpaAAPGRMQa16KHxQ&s" tvg-backdrop="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVuU1i0zQ5lkakCQwwA7D3t8yRvH3MBrDIe0k5pR8Qg&s",T-Sports Live
+https://example.com/live/stream10/index.m3u8

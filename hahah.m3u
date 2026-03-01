@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="SET HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png" group-title="Entertainment" tvg-type="Entertainment" tvg-language="Hindi",SET HD
+https://tulnit.fun/hot/sliv/play.php?id=075771cb7e7e45a7fb5e9e892112b6b8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Sony SAB HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="Entertainment" tvg-type="Comedy" tvg-language="Hindi",Sony SAB HD
+https://tulnit.fun/hot/sliv/play.php?id=978d48bb0639a9271d0b40bd421e4729
+
+#EXTINF:-1 tvg-id="4" tvg-name="Sony Pal" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="Entertainment" tvg-type="Entertainment" tvg-language="Hindi",Sony Pal
+https://tulnit.fun/hot/sliv/play.php?id=8442b87f2d35421a58ead01532b7069b
+
+#EXTINF:-1 tvg-id="5" tvg-name="Sony Aath" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png" group-title="Entertainment" tvg-type="Entertainment" tvg-language="Bengali",Sony Aath
+https://tulnit.fun/hot/sliv/play.php?id=707e46017f6e9b4dcda37a761efbda57
+
+#EXTINF:-1 tvg-id="7" tvg-name="Sony MAX HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png" group-title="Movies" tvg-type="Movies" tvg-language="Hindi",Sony MAX HD
+https://tulnit.fun/hot/sliv/play.php?id=a8b8baaf3e150cbc38732a437701d558
+
+#EXTINF:-1 tvg-id="10" tvg-name="Sony WAH" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-title="Movies" tvg-type="Movies" tvg-language="Hindi",Sony WAH
+https://tulnit.fun/hot/sliv/play.php?id=62d061346616a7d43d3c72bd7b450eb9
+
+#EXTINF:-1 tvg-id="11" tvg-name="Sony PIX HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png" group-title="Movies" tvg-type="Movies" tvg-language="English",Sony PIX HD
+https://tulnit.fun/hot/sliv/play.php?id=5c42fefc2067eed8b93a358a669f96db

@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="SET HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png" group-title="Entertainment" tvg-type="Entertainment" tvg-language="Hindi",SET HD
+https://tulnit.fun/hot/sliv/play.php?id=075771cb7e7e45a7fb5e9e892112b6b8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Sony SAB HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="Entertainment" tvg-type="Comedy" tvg-language="Hindi",Sony SAB HD
+https://tulnit.fun/hot/sliv/play.php?id=978d48bb0639a9271d0b40bd421e4729
+
+#EXTINF:-1 tvg-id="3" tvg-name="Sony Marathi" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png" group-title="Entertainment" tvg-type="Entertainment" tvg-language="Marathi",Sony Marathi
+https://tulnit.fun/hot/sliv/play.php?id=1cdaa4cf9640fa1e8bd7432af82c66c9
+
+#EXTINF:-1 tvg-id="4" tvg-name="Sony Pal" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="Entertainment" tvg-type="Entertainment" tvg-language="Hindi",Sony Pal
+https://tulnit.fun/hot/sliv/play.php?id=8442b87f2d35421a58ead01532b7069b
+
+#EXTINF:-1 tvg-id="5" tvg-name="Sony Aath" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png" group-title="Entertainment" tvg-type="Entertainment" tvg-language="Bengali",Sony Aath
+https://tulnit.fun/hot/sliv/play.php?id=707e46017f6e9b4dcda37a761efbda57
+
+#EXTINF:-1 tvg-id="6" tvg-name="Sony Yay" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="Kids" tvg-type="Kids" tvg-language="Hindi",Sony Yay
+https://tulnit.fun/hot/sliv/play.php?id=52e0cc50018c0110a52470f52e1ccb3f
+
+#EXTINF:-1 tvg-id="7" tvg-name="Sony MAX HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png" group-title="Movies" tvg-type="Movies" tvg-language="Hindi",Sony MAX HD
+https://tulnit.fun/hot/sliv/play.php?id=a8b8baaf3e150cbc38732a437701d558
+
+#EXTINF:-1 tvg-id="8" tvg-name="Sony MAX" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png" group-title="Movies" tvg-type="Movies" tvg-language="Hindi",Sony MAX
+https://tulnit.fun/hot/sliv/play.php?id=72e4275bb5ee347d1477fc2fa0862a7f
+
+#EXTINF:-1 tvg-id="9" tvg-name="Sony MAX 2" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="Movies" tvg-type="Movies" tvg-language="Hindi",Sony MAX 2
+https://tulnit.fun/hot/sliv/play.php?id=9594753546551f743944cd0e06952605
+
+#EXTINF:-1 tvg-id="10" tvg-name="Sony WAH" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-title="Movies" tvg-type="Movies" tvg-language="Hindi",Sony WAH
+https://tulnit.fun/hot/sliv/play.php?id=62d061346616a7d43d3c72bd7b450eb9
+
+#EXTINF:-1 tvg-id="11" tvg-name="Sony PIX HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png" group-title="Movies" tvg-type="Movies" tvg-language="English",Sony PIX HD
+https://tulnit.fun/hot/sliv/play.php?id=5c42fefc2067eed8b93a358a669f96db
+
+#EXTINF:-1 tvg-id="12" tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png" group-title="Sports" tvg-type="Sports" tvg-language="English",Sony Sports Ten 1 HD
+https://tulnit.fun/hot/sliv/play.php?id=55b105331012279d96c4eadd497800ca
+
+#EXTINF:-1 tvg-id="13" tvg-name="Sony Sports Ten 1" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png" group-title="Sports" tvg-type="Sports" tvg-language="English",Sony Sports Ten 1
+https://tulnit.fun/hot/sliv/play.php?id=9675c5d152ff65a5f1ea68e7359270d5
+
+#EXTINF:-1 tvg-id="14" tvg-name="Sony Sports Ten 2" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png" group-title="Sports" tvg-type="Sports" tvg-language="English",Sony Sports Ten 2
+https://tulnit.fun/hot/sliv/play.php?id=81877e6e2152249dad6c28a2366420ae
+
+#EXTINF:-1 tvg-id="15" tvg-name="Sony Sports Ten 3" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png" group-title="Sports" tvg-type="Sports" tvg-language="English",Sony Sports Ten 3
+https://tulnit.fun/hot/sliv/play.php?id=487b4db1bcdb1e9803fedceb33edfaac
+
+#EXTINF:-1 tvg-id="16" tvg-name="Sony Sports Ten 4" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png" group-title="Sports" tvg-type="Sports" tvg-language="English",Sony Sports Ten 4
+https://tulnit.fun/hot/sliv/play.php?id=9a14b0e808421997a53adb28dfec263f
+
+#EXTINF:-1 tvg-id="17" tvg-name="Sony Sports Ten 5" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png" group-title="Sports" tvg-type="Sports" tvg-language="English",Sony Sports Ten 5
+https://tulnit.fun/hot/sliv/play.php?id=5180fe63c38ee59c042a4b260f0f483c
+
+#EXTINF:-1 tvg-id="18" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png" group-title="Sports" tvg-type="Sports" tvg-language="English",Sony Sports Ten 2 HD
+https://tulnit.fun/hot/sliv/play.php?id=94670e493ddea7d59c3a07c35f1caaae
+
+#EXTINF:-1 tvg-id="19" tvg-name="Sony Sports Ten 3 HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png" group-title="Sports" tvg-type="Sports" tvg-language="English",Sony Sports Ten 3 HD
+https://tulnit.fun/hot/sliv/play.php?id=6b4248e7405d6c7f9d0348c859cc690a
+
+#EXTINF:-1 tvg-id="20" tvg-name="Sony Sports Ten 4 HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png" group-title="Sports" tvg-type="Sports" tvg-language="English",Sony Sports Ten 4 HD
+https://tulnit.fun/hot/sliv/play.php?id=5090cdd998d4ee4e2ce2099b87efc7de
+
+#EXTINF:-1 tvg-id="21" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://tulnit.fun/hot/sliv/index.php?get_logo=https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/19_270.png" group-title="Sports" tvg-type="Sports" tvg-language="English",Sony Sports Ten 5 HD
+https://tulnit.fun/hot/sliv/play.php?id=adc5edf2b9ba6db9bbcf05a996c9948b

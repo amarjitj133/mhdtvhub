@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" tvg-name="Star Sports 1" group-title=" JIOTV+ | Sports",Star Sports 1
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" tvg-name="Star Sports 1 HD" group-title=" T20I World Cup",Star Sports 1 HD
+https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" tvg-name="Star Sports 1 HD" group-title=" JIOTV+ | Sports",Star Sports 1 HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" tvg-name="Star Sports 1 HD" group-title="Clarity TV | T20 World Cup | Live Matches",Star Sports 1 HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58%7CCookie%3D__hdnea__%3Dst%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58&Origin=https%3A%2F%2Fjiotv.com%2F&Referer=https%3A%2F%2Fjiotv.com%2F&drmScheme=clearkey
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png" tvg-name="Star Sports 1 Hindi" group-title=" JIOTV+ | Sports",Star Sports 1 Hindi
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" tvg-name="Star Sports 1 Hindi HD" group-title=" JIOTV+ | Sports",Star Sports 1 Hindi HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" tvg-name="Star Sports 1 Hindi HD" group-title="Clarity TV | T20 World Cup | Live Matches",Star Sports 1 Hindi HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58%7CCookie%3D__hdnea__%3Dst%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58&Origin=https%3A%2F%2Fjiotv.com%2F&Referer=https%3A%2F%2Fjiotv.com%2F&drmScheme=clearkey
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Kannada.png" tvg-name="Star Sports 1 Kannada" group-title=" JIOTV+ | Sports",Star Sports 1 Kannada
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" tvg-name="Star Sports 1 Kannada" group-title="Clarity TV | T20 World Cup | Live Matches",Star Sports 1 Kannada
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58%7CCookie%3D__hdnea__%3Dst%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58&Origin=https%3A%2F%2Fjiotv.com%2F&Referer=https%3A%2F%2Fjiotv.com%2F&drmScheme=clearkey
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png" tvg-name="Star Sports 1 Tamil" group-title=" JIOTV+ | Sports",Star Sports 1 Tamil
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png" tvg-name="Star Sports 1 Tamil HD" group-title=" JIOTV+ | Sports",Star Sports 1 Tamil HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" tvg-name="Star Sports 1 Tamil HD" group-title="Clarity TV | T20 World Cup | Live Matches",Star Sports 1 Tamil HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58%7CCookie%3D__hdnea__%3Dst%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58&Origin=https%3A%2F%2Fjiotv.com%2F&Referer=https%3A%2F%2Fjiotv.com%2F&drmScheme=clearkey
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png" tvg-name="Star Sports 1 Telugu" group-title=" JIOTV+ | Sports",Star Sports 1 Telugu
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png" tvg-name="Star Sports 1 Telugu HD" group-title=" JIOTV+ | Sports",Star Sports 1 Telugu HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" tvg-name="Star Sports 1 Telugu HD" group-title="Clarity TV | T20 World Cup | Live Matches",Star Sports 1 Telugu HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58%7CCookie%3D__hdnea__%3Dst%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58&Origin=https%3A%2F%2Fjiotv.com%2F&Referer=https%3A%2F%2Fjiotv.com%2F&drmScheme=clearkey
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" tvg-name="Star Sports 2" group-title=" JIOTV+ | Sports",Star Sports 2
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" tvg-name="Star Sports 2 HD" group-title=" JIOTV+ | Sports",Star Sports 2 HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png" tvg-name="Star Sports 2 Hindi" group-title=" Clarity TV | VOOT | Jio Cinema",Star Sports 2 Hindi
+https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" tvg-name="Star Sports 2 Hindi" group-title=" JIOTV+ | Sports",Star Sports 2 Hindi
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" tvg-name="Star Sports 2 Hindi HD" group-title=" Clarity TV | VOOT | Jio Cinema",Star Sports 2 Hindi HD
+https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" tvg-name="Star Sports 2 Hindi HD" group-title=" JIOTV+ | Sports",Star Sports 2 Hindi HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2_Kannada.png" tvg-name="Star Sports 2 Kannada" group-title=" T20I World Cup",Star Sports 2 Kannada
+http://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2_Kannada.png" tvg-name="Star Sports 2 Kannada" group-title=" JIOTV+ | Sports",Star Sports 2 Kannada
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" tvg-name="Star Sports 2 Kannada" group-title="Clarity TV | T20 World Cup | Live Matches",Star Sports 2 Kannada
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd?__hdnea__=st%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58%7CCookie%3D__hdnea__%3Dst%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58&Origin=https%3A%2F%2Fjiotv.com%2F&Referer=https%3A%2F%2Fjiotv.com%2F&drmScheme=clearkey
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" tvg-name="Star Sports 2 Tamil" group-title=" Clarity TV | VOOT | Jio Cinema",Star Sports 2 Tamil
+https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Tamil.png" tvg-name="Star Sports 2 Tamil" group-title=" JIOTV+ | Sports",Star Sports 2 Tamil
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" tvg-name="Star Sports 2 Tamil" group-title="Clarity TV | T20 World Cup | Live Matches",Star Sports 2 Tamil
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/output/index.mpd?__hdnea__=st%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58%7CCookie%3D__hdnea__%3Dst%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58&Origin=https%3A%2F%2Fjiotv.com%2F&Referer=https%3A%2F%2Fjiotv.com%2F&drmScheme=clearkey
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Tamil_HD.png" tvg-name="Star Sports 2 Tamil HD" group-title=" JIOTV+ | Sports",Star Sports 2 Tamil HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png" tvg-name="Star Sports 2 Telugu" group-title=" Clarity TV | VOOT | Jio Cinema",Star Sports 2 Telugu
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png" tvg-name="Star Sports 2 Telugu" group-title=" JIOTV+ | Sports",Star Sports 2 Telugu
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp" tvg-name="Star Sports 2 Telugu" group-title="Clarity TV | T20 World Cup | Live Matches",Star Sports 2 Telugu
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/output/index.mpd?__hdnea__=st%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58%7CCookie%3D__hdnea__%3Dst%3D1772655905%7Eexp%3D1772742305%7Eacl%3D%2F*%7Ehmac%3D68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58&Origin=https%3A%2F%2Fjiotv.com%2F&Referer=https%3A%2F%2Fjiotv.com%2F&drmScheme=clearkey
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png" tvg-name="Star Sports 2 Telugu HD" group-title=" JIOTV+ | Sports",Star Sports 2 Telugu HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png" tvg-name="Star Sports 3" group-title=" JIOTV+ | Sports",Star Sports 3
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" tvg-name="Star Sports Hindi 1 HD" group-title=" T20I World Cup",Star Sports Hindi 1 HD
+https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" tvg-name="Star Sports Khel" group-title=" JIOTV+ | Sports",Star Sports Khel
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_Khel_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png" tvg-name="Star Sports Select 1" group-title=" JIOTV+ | Sports",Star Sports Select 1
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" tvg-name="Star Sports Select 1 HD" group-title=" JIOTV+ | Sports",Star Sports Select 1 HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png" tvg-name="Star Sports Select 2" group-title=" JIOTV+ | Sports",Star Sports Select 2
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/output/index.mpd
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" tvg-name="Star Sports Select 2 HD" group-title=" JIOTV+ | Sports",Star Sports Select 2 HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd

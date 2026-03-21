@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ZEE TV" tvg-name="ZEE TV" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FyHNSuG1V.png" tvg-category="Entertainment" tvg-language="Hindi",ZEE TV
+https://jiocdn.tulnit.fun/zee/play.php?id=ZEE TV
+
+#EXTINF:-1 tvg-id="AND TV" tvg-name="AND TV" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FT1CCvaAQ.png" tvg-category="Entertainment" tvg-language="Hindi",AND TV
+https://jiocdn.tulnit.fun/zee/play.php?id=AND TV
+
+#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-name="ZEE ANMOL" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FQjKdER9Z.png" tvg-category="Entertainment" tvg-language="Hindi",ZEE ANMOL
+https://jiocdn.tulnit.fun/zee/play.php?id=ZEE ANMOL
+
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FdiYkUOnX.png" tvg-category="Movies" tvg-language="Hindi",ZEE ANMOL CINEMA
+https://jiocdn.tulnit.fun/zee/play.php?id=ZEE ANMOL CINEMA
+
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-name="ZEE CINEMA" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2Fqss9gFuH.png" tvg-category="Movies" tvg-language="Hindi",ZEE CINEMA
+https://jiocdn.tulnit.fun/zee/play.php?id=ZEE CINEMA
+
+#EXTINF:-1 tvg-id="AND PICTURES" tvg-name="AND PICTURES" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FHivVrdof.png" tvg-category="Movies" tvg-language="Hindi",AND PICTURES
+https://jiocdn.tulnit.fun/zee/play.php?id=AND PICTURES
+
+#EXTINF:-1 tvg-id="ZEE BOLLYWOOD" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FEqDlflgi.png" tvg-category="Movies" tvg-language="Hindi",ZEE BOLLYWOOD
+https://jiocdn.tulnit.fun/zee/play.php?id=ZEE BOLLYWOOD
+
+#EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FgLSSl4nG.png" tvg-category="Movies" tvg-language="Bengali",Zee Bangla Cinema
+https://jiocdn.tulnit.fun/zee/play.php?id=Zee Bangla Cinema
+
+#EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F9XHWylqs.png" tvg-category="Entertainment" tvg-language="Bengali",Zee Bangla
+https://jiocdn.tulnit.fun/zee/play.php?id=Zee Bangla
+
+#EXTINF:-1 tvg-id="Zee Talkies" tvg-name="Zee Talkies" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVGfIqjrc.png" tvg-category="Movies" tvg-language="Marathi",Zee Talkies
+https://jiocdn.tulnit.fun/zee/play.php?id=Zee Talkies
+
+#EXTINF:-1 tvg-id="Zee Marathi HD" tvg-name="Zee Marathi HD" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F4bimlHJj.png" tvg-category="Entertainment" tvg-language="Marathi",Zee Marathi HD
+https://jiocdn.tulnit.fun/zee/play.php?id=Zee Marathi HD
+
+#EXTINF:-1 tvg-id="Zee Sarthak" tvg-name="Zee Sarthak" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fd388d59m61mm0v.cloudfront.net%2Foptimized%2Fcontent%2Fcommon%2Flogos%2Fchannel%2Flogos%2Fzee-sarthak.png" tvg-category="Entertainment" tvg-language="Odia",Zee Sarthak
+https://jiocdn.tulnit.fun/zee/play.php?id=Zee Sarthak
+
+#EXTINF:-1 tvg-id="Zee Kannada HD" tvg-name="Zee Kannada HD" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F1PrOGXAh.png" tvg-category="Entertainment" tvg-language="Kannada",Zee Kannada HD
+https://jiocdn.tulnit.fun/zee/play.php?id=Zee Kannada HD
+
+#EXTINF:-1 tvg-id="Zee Telugu HD" tvg-name="Zee Telugu HD" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F6vNzRaRK.png" tvg-category="Entertainment" tvg-language="Telugu",Zee Telugu HD
+https://jiocdn.tulnit.fun/zee/play.php?id=Zee Telugu HD
+
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FZee_Tamil.png" tvg-category="Entertainment" tvg-language="Tamil",Zee Tamil
+https://jiocdn.tulnit.fun/zee/play.php?id=Zee Tamil
+
+#EXTINF:-1 tvg-id="ZOOM" tvg-name="ZOOM" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FjLvKrs62.png" tvg-category="Music" tvg-language="Hindi",ZOOM
+https://jiocdn.tulnit.fun/zee/play.php?id=ZOOM
+
+#EXTINF:-1 tvg-id="ZING" tvg-name="ZING" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FNyi83z1G.png" tvg-category="Music" tvg-language="Hindi",ZING
+https://jiocdn.tulnit.fun/zee/play.php?id=ZING
+
+#EXTINF:-1 tvg-id="MTVBEATS" tvg-name="MTVBEATS" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FMJZdklJi.png" tvg-category="Music" tvg-language="Hindi",MTVBEATS
+https://jiocdn.tulnit.fun/zee/play.php?id=MTVBEATS
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUyI5ljKM.png" tvg-category="Documentary" tvg-language="English",DISCOVERY CHANNEL
+https://jiocdn.tulnit.fun/zee/play.php?id=DISCOVERY CHANNEL
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F6eCv1iuk.png" tvg-category="Documentary" tvg-language="English",DISCOVERY TURBO
+https://jiocdn.tulnit.fun/zee/play.php?id=DISCOVERY TURBO
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FvIA7TExn.png" tvg-category="Documentary" tvg-language="English",DISCOVERY SCIENCE
+https://jiocdn.tulnit.fun/zee/play.php?id=DISCOVERY SCIENCE
+
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FmHhlDCiL.png" tvg-category="Documentary" tvg-language="English",INVESTIGATION DISCOVERY
+https://jiocdn.tulnit.fun/zee/play.php?id=INVESTIGATION DISCOVERY
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FFOvFsIgt.png" tvg-category="Lifestyle" tvg-language="English",TLC
+https://jiocdn.tulnit.fun/zee/play.php?id=TLC
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FRzedYhFG.png" tvg-category="Kids" tvg-language="Hindi",DISCOVERY KIDS
+https://jiocdn.tulnit.fun/zee/play.php?id=DISCOVERY KIDS
+
+#EXTINF:-1 tvg-id="NDTVINDIA" tvg-name="NDTVINDIA" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fd388d59m61mm0v.cloudfront.net%2Foptimized%2Fcontent%2Fcommon%2Flogos%2Fchannel%2Flogos%2Fiqfloc.png" tvg-category="News" tvg-language="Hindi",NDTVINDIA
+https://jiocdn.tulnit.fun/zee/play.php?id=NDTVINDIA
+
+#EXTINF:-1 tvg-id="ZEE HINDUSTAN" tvg-name="ZEE HINDUSTAN" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FTknReKLD.png" tvg-category="News" tvg-language="Hindi",ZEE HINDUSTAN
+https://jiocdn.tulnit.fun/zee/play.php?id=ZEE HINDUSTAN
+
+#EXTINF:-1 tvg-id="ZEE BUSINESS" tvg-name="ZEE BUSINESS" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FvExrDK9r.png" tvg-category="Business" tvg-language="Hindi",ZEE BUSINESS
+https://jiocdn.tulnit.fun/zee/play.php?id=ZEE BUSINESS
+
+#EXTINF:-1 tvg-id="ZEE BIH/JH" tvg-name="ZEE BIH/JH" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F5zkMvEbF.png" tvg-category="Entertainment" tvg-language="Bhojpuri",ZEE BIH/JH
+https://jiocdn.tulnit.fun/zee/play.php?id=ZEE BIH/JH
+
+#EXTINF:-1 tvg-id="SHORTSTV" tvg-name="SHORTSTV" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FlcMc75Xr.png" tvg-category="Movies" tvg-language="English",SHORTSTV
+https://jiocdn.tulnit.fun/zee/play.php?id=SHORTSTV
+
+#EXTINF:-1 tvg-id="KOREAN DRAMAS" tvg-name="KOREAN DRAMAS" tvg-logo="https://jiocdn.tulnit.fun/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FBNu8WvFw.png" tvg-category="Entertainment" tvg-language="Korean",KOREAN DRAMAS
+https://jiocdn.tulnit.fun/zee/play.php?id=KOREAN DRAMAS

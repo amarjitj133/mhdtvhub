@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ed068cf84f0640ccbc7c0e395c0a272e" tvg-name="ZEE TV" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",ZEE TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+#EXTINF:-1 tvg-id="26df86eeebb04d7fbc45c948f76e81fd" tvg-name="AND TV" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",AND TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+#EXTINF:-1 tvg-id="4023613457774cbeb71a62c339970e63" tvg-name="ZEE ANMOL" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",ZEE ANMOL
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+#EXTINF:-1 tvg-id="812411cba8bc42c79eb2b19cd78ad3f3" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",ZEE ANMOL CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+#EXTINF:-1 tvg-id="43513b13f4b542e39c9265921dfc1726" tvg-name="ZEE CINEMA" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",ZEE CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+#EXTINF:-1 tvg-id="8dea532cabfe4f71ba20f62310e7949f" tvg-name="AND PICTURES" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",AND PICTURES
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+#EXTINF:-1 tvg-id="e61523260c614746b25b9a5523fe9a39" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" tvg-type="Movies" tvg-language="Hindi" group-title="Movies",ZEE BOLLYWOOD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+#EXTINF:-1 tvg-id="fbbfd9ce4bbe4d818b16df7dfe89f05b" tvg-name="Zee Bangla Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png" tvg-type="Movies" tvg-language="Bengali" group-title="Movies",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+#EXTINF:-1 tvg-id="1df83e058b864da896c9288eef63b113" tvg-name="Zee Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" tvg-type="Entertainment" tvg-language="Bengali" group-title="Entertainment",Zee Bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+#EXTINF:-1 tvg-id="86edec9e3b7d4042a4d4a1ca14f847ee" tvg-name="ZOOM" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" tvg-type="Music" tvg-language="Hindi" group-title="Music",ZOOM
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+#EXTINF:-1 tvg-id="f0fb14eebe474a6ab74c8301d55a7224" tvg-name="ZING" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" tvg-type="Music" tvg-language="Hindi" group-title="Music",ZING
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#EXTINF:-1 tvg-id="2a457a6a58184234ba9bfa6916ce8013" tvg-name="MTVBEATS" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png" tvg-type="Music" tvg-language="Hindi" group-title="Music",MTVBEATS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
+#EXTINF:-1 tvg-id="c011525969e44b99a86059dbb3cdf4e8" tvg-name="DISCOVERY TURBO" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" tvg-type="Documentary" tvg-language="Hindi" group-title="Documentary",DISCOVERY TURBO
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+#EXTINF:-1 tvg-id="5458f45efedb4d6f8aa6ac76c85b621b" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" tvg-type="Documentary" tvg-language="Hindi" group-title="Documentary",DISCOVERY SCIENCE
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+#EXTINF:-1 tvg-id="2828ea6f6a984505b0454da0c03f68b9" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" tvg-type="Documentary" tvg-language="Hindi" group-title="Documentary",INVESTIGATION DISCOVERY
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+#EXTINF:-1 tvg-id="e48e7373d6be47ecab83a20849f6823e" tvg-name="TLC" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png" tvg-type="Documentary" tvg-language="Hindi" group-title="Documentary",TLC
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+#EXTINF:-1 tvg-id="b70a8cf9450c4d6484b4ac4d3c6761c0" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" tvg-type="Documentary" tvg-language="Hindi" group-title="Documentary",DISCOVERY CHANNEL
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+#EXTINF:-1 tvg-id="601f58d4b7094d2baf78c85d1d9cb6c9" tvg-name="DISCOVERY KIDS" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" tvg-type="Kids" tvg-language="Hindi" group-title="Kids",DISCOVERY KIDS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
+#EXTINF:-1 tvg-id="zeenews" tvg-name="Zee News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqgsvfVCC5WZxPxIp7vXTQ11WpCqTd8BZeg&s" tvg-type="News" tvg-language="Hindi" group-title="News",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-id="d78c01625c3f4ed98912609799298544" tvg-name="NDTVINDIA" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" tvg-type="News" tvg-language="Hindi" group-title="News",NDTVINDIA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
+#EXTINF:-1 tvg-id="10616d7c4bee41f1825bd805c6295172" tvg-name="ZEE HINDUSTAN" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" tvg-type="News" tvg-language="Hindi" group-title="News",ZEE HINDUSTAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
+#EXTINF:-1 tvg-id="bef87892e58c446d893b16a848703b70" tvg-name="ZEE BUSINESS" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" tvg-type="News" tvg-language="Hindi" group-title="News",ZEE BUSINESS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
+#EXTINF:-1 tvg-id="e1ec6098b5014ac7aae0b37f72d5e85e" tvg-name="ZEE BIH/JH" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" tvg-type="Entertainment" tvg-language="Hindi" group-title="Entertainment",ZEE BIH/JH
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
+#EXTINF:-1 tvg-id="f081f32756374c3d8265e1a1e029614e" tvg-name="Zee Talkies" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" tvg-type="Movies" tvg-language="Marathi" group-title="Movies",Zee Talkies
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
+#EXTINF:-1 tvg-id="ecad0b097b574078a4a1bde24bfdb2e5" tvg-name="Zee Sarthak" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" tvg-type="Entertainment" tvg-language="Bhojpuri/Odia" group-title="Entertainment",Zee Sarthak
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd
+#EXTINF:-1 tvg-id="50e714b65ead453cbfab9b20bed5c79d" tvg-name="Zee Kannada HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1PrOGXAh.png" tvg-type="Entertainment" tvg-language="Kannada" group-title="Entertainment",Zee Kannada HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
+#EXTINF:-1 tvg-id="1ce5cd75a6ad44a38a7d1b8dbaf9c330" tvg-name="Zee Telugu HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" tvg-type="Entertainment" tvg-language="Telugu" group-title="Entertainment",Zee Telugu HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+#EXTINF:-1 tvg-id="0d4e3e7dac2d58b93bf819a72fe8d510" tvg-name="Zee Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Zee Tamil
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+#EXTINF:-1 tvg-id="2a8d6c938ea647248f7a10eedc39f097" tvg-name="Zee Marathi HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" tvg-type="Entertainment" tvg-language="Marathi" group-title="Entertainment",Zee Marathi HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
+#EXTINF:-1 tvg-id="b994480f788d41ddbc805862ac469416" tvg-name="SHORTSTV" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" tvg-type="Music" tvg-language="Hindi" group-title="Music",SHORTSTV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+#EXTINF:-1 tvg-id="ed197e7253c04946903f03bad9afac91" tvg-name="KOREAN DRAMAS" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" tvg-type="Entertainment" tvg-language="Korean" group-title="Entertainment",KOREAN DRAMAS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+#EXTINF:-1 tvg-id="1779c27b9d077a3ba0c9cc1bb9a94b9f" tvg-name="KOREAN DRAMAS" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" tvg-type="Entertainment" tvg-language="Korean" group-title="Entertainment",KOREAN DRAMAS
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd

@@ -1,0 +1,199 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStarTell.png" group-title="Lifestyle" tvg-language="English",Stars Tell
+https://mhdtvhub.com/ww/star/play.php?id=Stars_Tell
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FABSTAR_News.png" group-title="News" tvg-language="Hindi",AB Star News
+https://mhdtvhub.com/ww/star/play.php?id=AB_Star_News
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FVistara_News.png" group-title="News" tvg-language="Hindi",Vistara News
+https://mhdtvhub.com/ww/star/play.php?id=Vistara_News
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F96%2F65%2F302113_1749664252703_l_medium.jpg" group-title="Sports" tvg-language="English",Star Sports Select 1 HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_Select_1_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F13%2F82%2F301994_1749664069587_l_medium.jpg" group-title="Sports" tvg-language="English",Star Sports Select 1
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_Select_1
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F98%2F79%2F302114_1749665414817_l_medium.jpg" group-title="Sports" tvg-language="English",Star Sports Select 2 HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_Select_2_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F98%2F48%2F301989_1749664475828_l_medium.jpg" group-title="Sports" tvg-language="English",Star Sports Select 2
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_Select_2
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F76%2F32%2F301981_1749665664018_l_medium.jpg" group-title="Sports" tvg-language="English",Star Sports 1 HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_1_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F56%2F92%2F302115_1749665579801_l_medium.jpg" group-title="Sports" tvg-language="English",Star Sports 1
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_1
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F5%2F6%2F301982_1749665314605_l_medium.jpg" group-title="Sports" tvg-language="Hindi",Star Sports 1 Hindi HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_1_Hindi_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F13%2F81%2F302112_1749665154709_l_medium.jpg" group-title="Sports" tvg-language="Hindi",Star Sports 1 Hindi
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_1_Hindi
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F41%2F51%2F301983_1749666169105_l_medium.jpg" group-title="Sports" tvg-language="English",Star Sports 2 HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_2_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F11%2F30%2F302116_1749666029079_l_medium.jpg" group-title="Sports" tvg-language="English",Star Sports 2
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_2
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F56%2F36%2F301229_1742214332015_l_medium.jpg" group-title="Sports" tvg-language="Hindi",Star Sports 2 Hindi HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_2_Hindi_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F57%2F17%2F302124_1749130246443_l_medium.jpg" group-title="Sports" tvg-language="Hindi",Star Sports 2 Hindi
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_2_Hindi
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F78%2F2%2F302117_1749666092192_l_medium.jpg" group-title="Sports" tvg-language="English",Star Sports 3
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_3
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F19%2F19%2F302122_1749662923298_l_medium.jpg" group-title="Sports" tvg-language="Tamil",Star Sports 1 Tamil HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_1_Tamil_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F69%2F73%2F301995_1749664384503_l_medium.jpg" group-title="Sports" tvg-language="Tamil",Star Sports 1 Tamil
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_1_Tamil
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F19%2F57%2F302123_1749663029798_l_medium.jpg" group-title="Sports" tvg-language="Telugu",Star Sports 1 Telugu HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_1_Telugu_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F26%2F67%2F302119_1749662981095_l_medium.jpg" group-title="Sports" tvg-language="Telugu",Star Sports 1 Telugu
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_1_Telugu
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F13%2F91%2F302118_1749663894692_l_medium.jpg" group-title="Sports" tvg-language="Kannada",Star Sports 1 Kannada
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_1_Kannada
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F11%2F37%2F301993_1749664589518_l_medium.jpg" group-title="Sports" tvg-language="Kannada",Star Sports 2 Kannada
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_2_Kannada
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F50%2F43%2F302120_1749664850896_l_medium.jpg" group-title="Sports" tvg-language="Tamil",Star Sports 2 Tamil HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_2_Tamil_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F74%2F92%2F301561_1749664725619_l_medium.jpg" group-title="Sports" tvg-language="Tamil",Star Sports 2 Tamil
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_2_Tamil
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F84%2F67%2F302121_1749664974599_l_medium.jpg" group-title="Sports" tvg-language="Telugu",Star Sports 2 Telugu HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_2_Telugu_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F41%2F94%2F301562_1749665043898_l_medium.jpg" group-title="Sports" tvg-language="Telugu",Star Sports 2 Telugu
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_2_Telugu
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSports18_Khel.png" group-title="Sports" tvg-language="Hindi",Star Sports Khel
+https://mhdtvhub.com/ww/star/play.php?id=Star_Sports_Khel
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Movies_Select.png" group-title="Movies" tvg-language="English",Star Movies Select
+https://mhdtvhub.com/ww/star/play.php?id=Star_Movies_Select
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_Select_HD.png" group-title="Movies" tvg-language="Hindi",Star Gold Select HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Gold_Select_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_Select.png" group-title="Movies" tvg-language="Hindi",Star Gold Select
+https://mhdtvhub.com/ww/star/play.php?id=Star_Gold_Select
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_HD.png" group-title="Movies" tvg-language="Hindi",Star Gold HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Gold_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold.png" group-title="Movies" tvg-language="Hindi",Star Gold
+https://mhdtvhub.com/ww/star/play.php?id=Star_Gold
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_2_HD.png" group-title="Movies" tvg-language="Hindi",Star Gold 2 HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Gold_2_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_2.png" group-title="Movies" tvg-language="Hindi",Star Gold 2
+https://mhdtvhub.com/ww/star/play.php?id=Star_Gold_2
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_Romance.png" group-title="Movies" tvg-language="Hindi",Star Gold Romance
+https://mhdtvhub.com/ww/star/play.php?id=Star_Gold_Romance
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_Thrills.png" group-title="Movies" tvg-language="Hindi",Star Gold Thrills
+https://mhdtvhub.com/ww/star/play.php?id=Star_Gold_Thrills
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Movies_Select_HD.png" group-title="Movies" tvg-language="English",Star Movies Select HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Movies_Select_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Movies_HD.png" group-title="Movies" tvg-language="English",Star Movies HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Movies_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Movies.png" group-title="Movies" tvg-language="English",Star Movies
+https://mhdtvhub.com/ww/star/play.php?id=Star_Movies
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_Movies_HD.png" group-title="Movies" tvg-language="Telugu",Star Maa Movies HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Maa_Movies_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_Movies.png" group-title="Movies" tvg-language="Telugu",Star Maa Movies
+https://mhdtvhub.com/ww/star/play.php?id=Star_Maa_Movies
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_Music.png" group-title="Music" tvg-language="Telugu",Star Maa Music
+https://mhdtvhub.com/ww/star/play.php?id=Star_Maa_Music
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FJalsha_Movies.png" group-title="Movies" tvg-language="Bengali",Star Jalsha Movies
+https://mhdtvhub.com/ww/star/play.php?id=Star_Jalsha_Movies
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FJalsha_Movies_HD.png" group-title="Movies" tvg-language="Bengali",Star Jalsha Movies HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Jalsha_Movies_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Utsav_Movies.png" group-title="Movies" tvg-language="Hindi",Star Utsav Movies
+https://mhdtvhub.com/ww/star/play.php?id=Star_Utsav_Movies
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Plus_HD.png" group-title="Entertainment" tvg-language="Hindi",Star Plus HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Plus_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Plus.png" group-title="Entertainment" tvg-language="Hindi",Star Plus
+https://mhdtvhub.com/ww/star/play.php?id=Star_Plus
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Bharat_HD.png" group-title="Entertainment" tvg-language="Hindi",Star Bharat HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Bharat_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Bharat.png" group-title="Entertainment" tvg-language="Hindi",Star Bharat
+https://mhdtvhub.com/ww/star/play.php?id=Star_Bharat
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSuvarna_HD.png" group-title="Entertainment" tvg-language="Kannada",Star Suvarna HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Suvarna_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSuvarna.png" group-title="Entertainment" tvg-language="Kannada",Star Suvarna
+https://mhdtvhub.com/ww/star/play.php?id=Star_Suvarna
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Pravah_Picture_HD.png" group-title="Movies" tvg-language="Marathi",Star Pravah Picture HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Pravah_Picture_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Pravah_Picture.png" group-title="Movies" tvg-language="Marathi",Star Pravah Picture
+https://mhdtvhub.com/ww/star/play.php?id=Star_Pravah_Picture
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_HD.png" group-title="Telugu" tvg-language="Telugu",Star Maa HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Maa_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Pravah_HD.png" group-title="Marathi" tvg-language="Marathi",Star Pravah HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Pravah_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Pravah.png" group-title="Marathi" tvg-language="Marathi",Star Pravah
+https://mhdtvhub.com/ww/star/play.php?id=Star_Pravah
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Jalsha.png" group-title="Bengali" tvg-language="Bengali",Star Jalsha
+https://mhdtvhub.com/ww/star/play.php?id=Star_Jalsha
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Jalsha_HD.png" group-title="Bengali" tvg-language="Bengali",Star Jalsha HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Jalsha_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Vijay_HD.png" group-title="Tamil" tvg-language="Tamil",Star Vijay HD
+https://mhdtvhub.com/ww/star/play.php?id=Star_Vijay_HD
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Vijay.png" group-title="Tamil" tvg-language="Tamil",Star Vijay
+https://mhdtvhub.com/ww/star/play.php?id=Star_Vijay
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_Gold.png" group-title="Telugu" tvg-language="Telugu",Star Maa Gold
+https://mhdtvhub.com/ww/star/play.php?id=Star_Maa_Gold
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Kiran.png" group-title="Odia" tvg-language="Odia",Star Kiran
+https://mhdtvhub.com/ww/star/play.php?id=Star_Kiran
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Maa.png" group-title="Telugu" tvg-language="Telugu",Star Maa
+https://mhdtvhub.com/ww/star/play.php?id=Star_Maa
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSuvarna_Plus.png" group-title="Kannada" tvg-language="Kannada",Star Suvarna Plus
+https://mhdtvhub.com/ww/star/play.php?id=Star_Suvarna_Plus
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Utsav.png" group-title="Entertainment" tvg-language="Hindi",Star Utsav
+https://mhdtvhub.com/ww/star/play.php?id=Star_Utsav
+
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/star/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FNation_Star_News.png" group-title="News" tvg-language="Hindi",Nation World News
+https://mhdtvhub.com/ww/star/play.php?id=Nation_World_News
